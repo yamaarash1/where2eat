@@ -1,0 +1,15 @@
+current directory: /Users/ty/where2eat/vendor/bundle/gems/bindex-0.7.0/ext/skiptrace
+/Users/ty/.rbenv/versions/2.4.1/bin/ruby -I /Users/ty/.rbenv/versions/2.4.1/lib/ruby/site_ruby/2.4.0 -r ./siteconf20190426-99832-1iqt05i.rb extconf.rb
+creating Makefile
+
+current directory: /Users/ty/where2eat/vendor/bundle/gems/bindex-0.7.0/ext/skiptrace
+make "DESTDIR=" clean
+
+current directory: /Users/ty/where2eat/vendor/bundle/gems/bindex-0.7.0/ext/skiptrace
+make "DESTDIR="
+compiling cruby.c
+linking shared-object skiptrace/cruby.bundle
+
+current directory: /Users/ty/where2eat/vendor/bundle/gems/bindex-0.7.0/ext/skiptrace
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20190426-99832-1hjbbh9/skiptrace
