@@ -1,5 +1,5 @@
 current directory: /Users/ty/where2eat/vendor/bundle/gems/ffi-1.10.0/ext/ffi_c
-/Users/ty/.rbenv/versions/2.4.1/bin/ruby -I /Users/ty/.rbenv/versions/2.4.1/lib/ruby/site_ruby/2.4.0 -r ./siteconf20190426-99832-wsrbzt.rb extconf.rb
+/Users/ty/.rbenv/versions/2.4.1/bin/ruby -I /Users/ty/.rbenv/versions/2.4.1/lib/ruby/site_ruby/2.4.0 -r ./siteconf20190426-17338-14ez0h0.rb extconf.rb
 checking for ffi.h... no
 checking for ffi.h in /usr/local/include,/usr/include/ffi... yes
 checking for ffi_call() in -lffi... yes
@@ -136,4 +136,4 @@ compiling Variadic.c
 compiling ffi.c
 linking shared-object ffi_c.bundle
 ld: warning: could not create compact unwind for _ffi_call_unix64: does not use RBP or RSP based frame
-/usr/bin/install -c -m 0755 ffi_c.bundle ./.gem.20190426-99832-1ysumq1
+/usr/bin/install -c -m 0755 ffi_c.bundle ./.gem.20190426-17338-1ojt1h

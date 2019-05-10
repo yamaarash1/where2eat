@@ -1,5 +1,5 @@
 current directory: /Users/ty/where2eat/vendor/bundle/gems/nio4r-2.3.1/ext/nio4r
-/Users/ty/.rbenv/versions/2.4.1/bin/ruby -I /Users/ty/.rbenv/versions/2.4.1/lib/ruby/site_ruby/2.4.0 -r ./siteconf20190426-99832-u0xz33.rb extconf.rb
+/Users/ty/.rbenv/versions/2.4.1/bin/ruby -I /Users/ty/.rbenv/versions/2.4.1/lib/ruby/site_ruby/2.4.0 -r ./siteconf20190426-17338-132cmc7.rb extconf.rb
 checking for unistd.h... yes
 checking for sys/select.h... yes
 checking for port_event_t in poll.h... no
@@ -247,4 +247,4 @@ linking shared-object nio4r_ext.bundle
 
 current directory: /Users/ty/where2eat/vendor/bundle/gems/nio4r-2.3.1/ext/nio4r
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 nio4r_ext.bundle ./.gem.20190426-99832-hh0hhr
+/usr/bin/install -c -m 0755 nio4r_ext.bundle ./.gem.20190426-17338-1gwh2ws
